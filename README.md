@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, i'm Aleksey 👋
 
-<!--
-**xposed01/xposed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ❄ From Siberia
+- 🔭 Stydyng at RS School @ **Frontend**
+- 🌱 I’m currently learning **JavaScript**
+- 💬 Discord: Nickel#1973
+- My CV: https://xposed01.github.io/rsschool-cv/
 
-Here are some ideas to get you started:
+[![codewars](https://www.codewars.com/users/xposed01/badges/small)](https://www.codewars.com/users/xposed01)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
